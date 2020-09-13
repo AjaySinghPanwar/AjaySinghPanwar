@@ -1,5 +1,4 @@
 ## Ajay Singh Panwar ##
-[![Gmail logo image link](AjaySinghPanwar/Gmail-logo)](a.panwar48656@gmail.com)
 
 ### Hey Guyz How you doin 👋
 
