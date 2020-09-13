@@ -1,5 +1,5 @@
 ## Ajay Singh Panwar ##
-[![Gmail logo image link](extras/logo.gif)](https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail)
+
 
 ### Hey Guyz How you doin 👋
 
