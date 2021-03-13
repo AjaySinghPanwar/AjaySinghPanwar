@@ -7,7 +7,7 @@
 
 * 🌱 Learning **Web Development**
 
-* 🤔 I’m looking for help with **Deep Development**
+* 🤔 I’m looking for help with **Web Development**
 
 * 💬 Ask me about my nick name
 
