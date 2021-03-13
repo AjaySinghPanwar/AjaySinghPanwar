@@ -5,9 +5,9 @@
 
 * 🔭 I’m currently doing my **B.TECH** in **Electronics and Communication**
 
-* 🌱 Learning **Data Science**
+* 🌱 Learning **Web Development**
 
-* 🤔 I’m looking for help with **Deep Learning**
+* 🤔 I’m looking for help with **Deep Development**
 
 * 💬 Ask me about my nick name
 
