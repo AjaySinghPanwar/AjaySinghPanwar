@@ -1,9 +1,7 @@
 ## Ajay Singh Panwar ##
 
-### Hey Guyz How you doin 👋
+### Hey Guyz How you doing 👋
 
-
-* 🔭 I’m currently doing my **B.TECH** in **Electronics and Communication**
 
 * 🌱 Learning **Web Development**
 
