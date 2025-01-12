@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh Panwar</h1>
 <h3 align="center">I am a dedicated React and React Native developer with around 2 years of hands-on experience.</h3>
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-seven-pied.vercel.app/](https://myportfolio-seven-pied.vercel.app/)
-
 - 💬 Ask me about **React, React Native, JavaScript and TypeScript**
 
 - 📫 How to reach me **a.panwar48656@gmail.com**
